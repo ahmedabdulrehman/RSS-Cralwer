@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jdom">
+    <archive path="C:/Users/ahmed/RssCrawler/lib/jdom.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/ahmed/RssCrawler/lib/jdom.jar" />
+    <archive path="C:/Users/ahmed/RssCrawler/lib/rome-1.0.jar" />
+  </library>
+  <library name="rome-1.0">
+    <archive path="C:/Users/ahmed/RssCrawler/lib/rome-1.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="xerces:xercesImpl:2.9.1" type="repository">
+    <properties maven-id="xerces:xercesImpl:2.9.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

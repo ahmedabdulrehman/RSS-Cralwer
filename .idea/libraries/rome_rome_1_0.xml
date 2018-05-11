@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rome:rome:1.0" type="repository">
+    <properties maven-id="rome:rome:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/rome/1.0/rome-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jdom/jdom/1.0/jdom-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

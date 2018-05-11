@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<links>
+	<item name="BBC">
+    <channelName><![CDATA[BBC Global]]></channelName>
+    <url><![CDATA[http://feeds.bbci.co.uk/news/world/rss.xml]]></url>
+  </item>
+	<item name="CNN">
+    <channelName><![CDATA[CNN Global]]></channelName>
+    <url><![CDATA[http://rss.cnn.com/rss/edition_world.rss]]></url>
+  </item>
+</links>
